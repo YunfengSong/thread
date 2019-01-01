@@ -14,7 +14,7 @@ public class Thread1 {
 //                '}';
 //    }
 
-    private void m() {
+    private  void m() {
         synchronized(o){
             count -- ;
             System.out.println(Thread.currentThread().getName() + "  count =" + count);
