@@ -32,7 +32,7 @@ public class ThreadLocal2 {
     }
 
     static class Person {
-        String name = "zhansgan";
+        String name = "zhansgan ";
     }
 
 }
