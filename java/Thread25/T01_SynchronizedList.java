@@ -9,7 +9,7 @@ import java.util.List;
  * @Date: 2019/1/7 09:47
  * @Description: 加锁小工厂
  */
-public class SynchronizedList {
+public class T01_SynchronizedList {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         List<String> synList = Collections.synchronizedList(list);

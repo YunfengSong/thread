@@ -8,7 +8,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
  * @Date: 2019/1/7 09:50
  * @Description:
  */
-public class ConcurrentQueue {
+public class T04_ConcurrentQueue {
     public static void main(String[] args) {
         Queue<String> strs = new ConcurrentLinkedQueue<>();
 

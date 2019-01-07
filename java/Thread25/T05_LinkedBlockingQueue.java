@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
  * @Date: 2019/1/7 09:56
  * @Description:
  */
-public class LinkedBlockingQueue {
+public class T05_LinkedBlockingQueue {
     static BlockingQueue<String> strs = new LinkedBlockingDeque<>();
     static Random r = new Random();
 
@@ -18,7 +18,7 @@ public class LinkedBlockingQueue {
         new Thread(()->{
             for (int i = 0; i < 100; i++) {
                 try {
-                    strs.put("a"+i);
+                    strs.put("a"+i);//如果满了，等待。-take
                     TimeUnit.MICROSECONDS.sleep(r.nextInt(1000));
                 } catch (InterruptedException e) {
                     e.printStackTrace();

@@ -10,7 +10,7 @@ import java.util.concurrent.CountDownLatch;
  * @Date: 2019/1/6 18:02
  * @Description:
  */
-public class ConcurrentMap {
+public class T01_ConcurrentMap {
     public static void main(String[] args) {
 //        Map<String, String> map = new ConcurrentHashMap<>();//每个操作都加锁
 //        Map<String, String> map = new ConcurrentSkipListMap<>();//高并发并且排序

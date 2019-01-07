@@ -8,7 +8,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
  * @Date: 2019/1/7 09:27
  * @Description: 写时复制，写的效率不高，读的效率高,wusuo
  */
-public class CopyOnWriteList {
+public class T02_CopyOnWriteList {
     public static void main(String[] args) {
 //        List<String> list = new ArrayList<>();
 //        List<String> list = new Vector<>();
