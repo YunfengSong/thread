@@ -1,7 +1,7 @@
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 12:47
- * @Description:
+ * @Description: 多线程使用synchronized输出案例
  */
 public class Thread5 extends Thread  {
     private int count = 10;

@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/2 09:35
- * @Description:
+ * @Description: 写一个到5就停的容器
  */
 public class MyContainer1 {
    volatile List list = new ArrayList();

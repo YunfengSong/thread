@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/3 23:19
- * @Description:
+ * @Description: 用生产者消费者模式，实现方式
  */
 public class MyContainer1 <T>{
     final private LinkedList<T> list = new LinkedList<T>();

@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/2 09:16
- * @Description:
+ * @Description:对象名如果发生变化，就不再具有锁定意义
  */
 public class Thread17 {
     Object o = new Object();

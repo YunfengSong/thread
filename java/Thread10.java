@@ -3,7 +3,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 17:55
- * @Description:锁的都是子类对象
+ * @Description:  锁的都是子类对象
  */
 public class Thread10 {
     protected synchronized void m() {

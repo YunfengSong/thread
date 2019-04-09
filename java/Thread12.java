@@ -3,7 +3,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 23:16
- * @Description:volatile
+ * @Description:volatile实现可见性 synchronized能实现两者
  */
 public class Thread12 {
     /*volatile */ boolean running = true;

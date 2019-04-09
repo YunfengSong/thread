@@ -3,7 +3,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 17:32
- * @Description:脏读问题:业务代码对写加锁，读不加锁。
+ * @Description:脏读问题:   业务代码对写加锁，读不加锁。应用于上个结论的实例
  */
 public class Thread8 {
     private String name;

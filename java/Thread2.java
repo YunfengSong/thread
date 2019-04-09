@@ -1,7 +1,7 @@
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 12:29
- * @Description:
+ * @Description: 可以用synchronized锁定this对象来完成同步
  */
 public class Thread2 {
 

@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/3 22:44
- * @Description:
+ * @Description:  可以设置为被打断
  */
 public class ReentrantLock4 {
 

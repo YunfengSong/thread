@@ -3,7 +3,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 23:52
- * @Description: synchronized优化
+ * @Description: synchronized优化，细化其锁粒度，可以优化整体性能
  */
 public class Thread16 {
     private int count  = 0;

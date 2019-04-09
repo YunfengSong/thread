@@ -1,7 +1,7 @@
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 14:39
- * @Description:
+ * @Description: 不用synchronized的方法不被同步，不需要获得对象就可以使用
  */
 public class Thread7 {
 

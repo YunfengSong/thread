@@ -7,7 +7,7 @@ import java.util.concurrent.CountDownLatch;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/2 10:09
- * @Description:
+ * @Description:  使用countdownlatch进行写容器  前一个使用waitnotify
  */
 public class MyContainer5 {
 

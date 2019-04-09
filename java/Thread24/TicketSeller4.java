@@ -8,7 +8,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/6 17:57
- * @Description:
+ * @Description:  队列是个好东西。
  */
 public class TicketSeller4 {
     static Queue<String> tickets = new ConcurrentLinkedQueue<>();

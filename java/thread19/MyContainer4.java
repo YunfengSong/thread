@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/2 09:48
- * @Description: wait /notify 所动的对象可以使用wait/notify  notify不会释放锁
+ * @Description:     wait /notify 所动的对象可以使用wait/notify  notify不会释放锁
  */
 public class MyContainer4 {
 

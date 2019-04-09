@@ -1,7 +1,7 @@
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 14:31
- * @Description:
+ * @Description: 继承thread类的类可以被启动线程，运行其run方法，用start启动
  */
 public class Thread6 extends Thread{
     private  int count = 10;

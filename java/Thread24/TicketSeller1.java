@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/6 17:45
- * @Description:
+ * @Description: 卖票系统，这样一定会出问题。进行并行判断，这样很危险，
  */
 public class TicketSeller1 {
     static List<String> tickets = new ArrayList<>();

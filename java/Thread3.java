@@ -1,7 +1,7 @@
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 12:31
- * @Description:
+ * @Description:可以用synchronized锁定方法名完成同步
  */
 public class Thread3 {
     private  int  count = 9 ;

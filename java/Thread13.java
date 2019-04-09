@@ -5,7 +5,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 23:25
- * @Description:
+ * @Description: Atomic类其加减具有原子性
  */
 public class Thread13 {
     //    private /*volatile*/ int count = 0;

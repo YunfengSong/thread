@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/3 22:29
- * @Description:
+ * @Description:  reentrantlock可以实现synchronized的所有功能
  */
 public class ReentrantLock2 {
     Lock lock = new ReentrantLock();

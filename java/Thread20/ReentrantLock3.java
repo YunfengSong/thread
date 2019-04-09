@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/3 22:34
- * @Description:
+ * @Description: 可以实现尝试锁定
  */
 public class ReentrantLock3 {
 

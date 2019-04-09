@@ -8,7 +8,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/3 23:31
- * @Description:
+ * @Description:  第一种是使用waitnotifyall进行全部，蛋这种的话就是使用condition进行
  */
 public class  MyContainer2<T>{
     final private LinkedList<T> list = new LinkedList<>();

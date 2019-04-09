@@ -3,7 +3,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 17:47
- * @Description:重入锁
+ * @Description :  重入锁，获得统一对象所之后，可以调用该对象的其他锁方法，但要求是统一线程
  */
 public class Thread9 {
     private synchronized void m1() {

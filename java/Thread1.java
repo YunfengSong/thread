@@ -1,7 +1,7 @@
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 10:46
- * @Description:
+ * @Description:    可以用synchronized锁定一个内部对象完成同步
  */
 public class Thread1 {
     private int count = 10 ;

@@ -1,7 +1,7 @@
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 12:35
- * @Description:
+ * @Description:锁定静态方法相当于直接锁定类对象
  */
 public class Thread4 {
      private static int count = 10;

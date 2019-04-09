@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/6 17:24
- * @Description:
+ * @Description: threadloxal相当于给线程一个私有空间
  */
 public class ThreadLocal2 {
     //   volatile static Person p =new Person();

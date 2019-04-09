@@ -3,7 +3,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/1 18:16
- * @Description:
+ * @Description:  遇到异常会释放当前线程的锁
  */
 public class Thread11 {
     private  int count = 10 ;

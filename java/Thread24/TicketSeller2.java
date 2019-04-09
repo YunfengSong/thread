@@ -7,7 +7,7 @@ import java.util.Vector;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/6 17:49
- * @Description://vector的所有方法都是加锁的
+ * @Description: //vector的所有方法都是加锁的
  */
 public class TicketSeller2 {
     static Vector<String> tickets = new Vector<>();

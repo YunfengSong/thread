@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/6 17:38
- * @Description:
+ * @Description:  单例模式的实现方法，饿汉家在，以及懒汉加载
  */
 public class Singleton {
 

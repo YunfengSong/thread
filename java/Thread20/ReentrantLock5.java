@@ -5,7 +5,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/3 23:01
- * @Description:
+ * @Description: 可以设置为公平锁
  */
 public class ReentrantLock5 extends Thread {
 
