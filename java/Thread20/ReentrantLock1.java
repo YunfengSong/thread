@@ -35,4 +35,4 @@ public class ReentrantLock1 {
 
         new Thread(r1::m2).start();
     }
-}
+}//lamda表达式
